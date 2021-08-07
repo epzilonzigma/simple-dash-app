@@ -8,6 +8,8 @@ Essentially the user will enter prediction inputs in the app where an output wil
 A simple predictive model built based on the following data source: 
 https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
 
+The app will be based on an extremely naive predictive model on rain wear/umbrella orders.
+
 ## Dependencies
 
 Anaconda - 2021.05 Version
