@@ -1,0 +1,21 @@
+#title {
+    text-align: center;
+    color: blue;
+}
+
+.subtitle {
+    text-align: left;
+    color: navy;
+}
+
+button {
+    background: navy;
+    color: white;
+    font-weight: bolder;
+    font-size: 24px;
+    margin-top: 14px;
+}
+
+#output {
+    margin-top: 14px;
+}
